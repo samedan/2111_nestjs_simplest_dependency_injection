@@ -1,0 +1,11 @@
+### Create new project
+> nest new di
+
+### Generate modules
+> nest g module moduleName
+### Generate service
+> nest g service serviceName
+### Generate controller
+> nest g controller controllerName
+
+npm run start:dev
